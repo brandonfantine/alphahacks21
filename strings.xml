@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AlphaHacks21</string>
+    <string name="button_restaurant">Find Me a Restaurant!</string>
+    <string name="flavor_ask">What are you in the mood for?</string>
+    <string name="enter_address">Enter your location:</string>
+    <string name="location">Location</string>
+    <string name="button_continue">Continue</string>
+    <string name="app_label">App Label</string>
+    <string name="search_hint">Search Hint</string>
+    <string name="flav_sea">Seafood</string>
+    <string name="button_flavor">Flavor</string>
+    <string name="flav_viet">Vietnamese</string>
+    <string name="flav_jap">Japanese</string>
+    <string name="flav_chin">Chinese</string>
+    <string name="flav_amer">American</string>
+    <string name="flav_fast">Fast food</string>
+    <string name="flav_sus">Sushi</string>
+    <string name="flav_in">Indian</string>
+    <string name="flav_peru">Peruvian</string>
+    <string name="flav_his">Hispanic</string>
+    <string name="flav_meat">Steak</string>
+    <string name="flav_ko">Korean</string>
+    <string name="flav_italy">Italian</string>
+    <string name="title_activity_map">Map</string>
+</resources>
